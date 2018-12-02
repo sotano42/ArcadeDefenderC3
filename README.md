@@ -1,6 +1,6 @@
 ## Arcade Defender Reporte de Bugs
 
-Aquí es donde se registrarán las notificaciones de bugs/errores encontrados para el juego Arcade Defender. Cada error, bug, sugerencia o nueva característica reportada será conocida de hoy en adelante como Issue.
+Aquí es donde se registrarán las notificaciones de bugs/errores encontrados para el juego Arcade Defender. Cada error, bug, sugerencia o nueva característica reportada será conocida de hoy en adelante como **Issue**.
 
 ## Lee estos lineamientos o tu bug/error puede ser cerrado sin revisarse.
 

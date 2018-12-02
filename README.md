@@ -10,6 +10,9 @@ Muchos de los errores reportados suelen ser inútiles porque no contienen inform
 
 En muchas ocasiones los bugs son aparentes por el desconocimiento total de las reglas o mecánicas del juego. Si crees que encontraste algo, asegúrate de tratar de ejecutar los mismos pasos para recrearlo y verificar que efectivamente haz encontrado una falla.
 
+## Utiliza la Plantilla para Reportar Errores
+Usa la plantilla publicada en este directorio, llénala y asegúrate de proporcionar toda la información necesaria para que podamos dar con el error.
+
 ## Verifica la versión del juego
 
 Antes de reportar un bug/error asegúrate de contar con la última versión del juego. Puedes ir directamente a Google Play a la página del juego, desplegar la Información Adicional y revisar que el número de versión actual publicado sea el mismo que la versión de tu juego. Al arrancar Arcade Defender encontraras que en la pantalla de inicio en la parte inferior se despliega un número con formato 9.9.9.9. Esta secuencia de cuatro dígitos separados por punto es la versión de tu aplicación.
